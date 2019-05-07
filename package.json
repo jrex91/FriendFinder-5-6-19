@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder-5-6-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrex91/FriendFinder-5-6-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrex91/FriendFinder-5-6-19/issues"
+  },
+  "homepage": "https://github.com/jrex91/FriendFinder-5-6-19#readme"
+}
